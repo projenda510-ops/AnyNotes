@@ -7,7 +7,7 @@
 **Anynotes** is a curated digital vault for developers. It serves as a central hub for high-value GitHub repositories, essential development tools, and innovative resources discovered across the web.
 
 > [!NOTE]
-> **Anynotes is a new and growing repository.** I'm constantly adding new resources and refining the collection. Stay tuned for frequent updates!
+> **Anynotes is a new and growing repository.** Stay tuned for frequent updates!
 
 The goal is simple: **Capture, Organize, and Build.**
 
